@@ -1,0 +1,24 @@
+body{
+    background: pink;
+}
+.container{
+    width: 280px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background: #aaffee;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0px 0px 3px 2px teal
+}
+input[type="text"]{
+    border: 1px solid #fff;
+    outline: none;
+    padding: 10px;
+    width: 250px;
+}
+input[type="button"]{
+    width: 61px;
+    height: 40px;
+    margin: 2px;
+    font-size: 15px;
+}
